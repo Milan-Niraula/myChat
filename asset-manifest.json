@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myChat/static/css/main.382dab2d.css",
+    "main.js": "/myChat/static/js/main.28191d1a.js",
+    "static/js/787.60bf9af3.chunk.js": "/myChat/static/js/787.60bf9af3.chunk.js",
+    "index.html": "/myChat/index.html",
+    "main.382dab2d.css.map": "/myChat/static/css/main.382dab2d.css.map",
+    "main.28191d1a.js.map": "/myChat/static/js/main.28191d1a.js.map",
+    "787.60bf9af3.chunk.js.map": "/myChat/static/js/787.60bf9af3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382dab2d.css",
+    "static/js/main.28191d1a.js"
+  ]
+}
